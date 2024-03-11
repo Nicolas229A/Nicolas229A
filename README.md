@@ -6,7 +6,7 @@
   * Web Developer 💻🤍
   * Trained as a Computer Technician by <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/integrados/informatica">IFMS</a> 🖥️🔧
   * Academic of the higher education course in Technology for Internet Systems at <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/graduacao/sistemas-para-internet">IFMS</a> 🧑‍💻
-  * Lattes Curriculum (primarily in portuguese): <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/graduacao/sistemas-para-internet">Nicolas Almeida Valente - Currículo</a> 📰
+  * Lattes Curriculum (primarily in portuguese): <a href="http://lattes.cnpq.br/0712278680118874">Nicolas Almeida Valente - Currículo</a> 📰
 
 
 <h2>Languages, Tools and Technologies: </h2>
