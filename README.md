@@ -48,10 +48,10 @@
   <a href="https://github.com/Nicolas229A">
  
   
-  <img height="180em" border-radius="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas229A&layout=compact&theme=dark">
+  <img height="180em" border-radius="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas229A&layout=compact&theme=dracula">
  
   <br/>
   <br/>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas229A&layout=compact&langs_count=7&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas229A&layout=compact&langs_count=7&theme=dracula" /></p>
 </div>
